@@ -1,4 +1,4 @@
-i stink at programming but i am trying
+isapbiat
 
 use this gcc command to translate the c code into assembly
 
